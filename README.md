@@ -5,8 +5,7 @@ This repository contains all the projects completed during my CodSoft Internship
 
 1. Movie Recommendation System 🎬  
 2. Face Detection System 👤  
-3. Image Captioning 🖼️  
-4. (Add more if you have)
+3. Image Captioning 🖼️ 
 
 ## 🛠️ Technologies Used
 - Python
